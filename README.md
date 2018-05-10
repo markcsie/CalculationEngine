@@ -1,6 +1,6 @@
 # CalculationEngine
 
-**Run**:
+## Run:
 ```bash
 mkdir build
 cd build
@@ -9,3 +9,6 @@ make
 example: ./example/calc <engine_name> <file_list>/<list of integers>
 unit tests: ./test/test_divider_engine
 ```
+
+## Dependency:
+#### gtest
